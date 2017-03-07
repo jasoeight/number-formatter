@@ -19,7 +19,11 @@ A small library that adds commas to numbers
 
 ## Tests
 
-  `npm test`
+  `npm run test`
+  
+[![Build Status](https://travis-ci.org/jasoeight/number-formatter.svg?branch=master)](https://travis-ci.org/jasoeight/number-formatter)
+
+[![Coverage Status](https://coveralls.io/repos/github/jasoeight/number-formatter/badge.svg?branch=master)](https://coveralls.io/github/jasoeight/number-formatter?branch=master)
 
 ## Contributing
 
