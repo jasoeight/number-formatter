@@ -1,0 +1,23 @@
+{
+  "name": "@jasoeight/number-formatter",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jasoeight/number-formatter.git"
+  },
+  "author": "Jan Soehnitz <jan.soehnitz@googlemail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jasoeight/number-formatter/issues"
+  },
+  "homepage": "https://github.com/jasoeight/number-formatter#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.2.0"
+  }
+}
